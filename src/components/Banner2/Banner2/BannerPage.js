@@ -11,8 +11,7 @@ function BannerPage({title, img}) {
         {
           data.map(Data=>{
               return <div><Banner2 Data={Data} title={title} img={img}/> </div>
-          })
-        }
+          })  }
       </div>
     </div>
   )
