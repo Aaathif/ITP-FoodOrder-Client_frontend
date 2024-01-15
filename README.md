@@ -32,12 +32,13 @@ Click [here](https://www.figma.com/proto/MKqFFd0kCgzLJpYV7APk3Y/ITP-Project-food
 
 ## Folder Structure
 The project's folder structure is organized as follows:
-
+````
 ├── src      
 ├   ├── componentts    # Frontend client side React components
 ├   └── screen         # Frontend client side pages 
     
 └── public             # Static files and assets
+````
 
 ## Future Enhancements
 We have exciting plans for future enhancements, including:
